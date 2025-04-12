@@ -1,0 +1,3 @@
+Récupérer le risk free rate sur la période avec Bloomberg 
+Récupérer les options sur les tickers 
+mettre en forme CSV
